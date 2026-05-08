@@ -1,54 +1,28 @@
 # blindshen14
 
-I build small tools for myself first, then share the ones that turn out useful.
+I build small tools for myself first. Most of them start as something missing in my own workflow. If they turn out useful, I share them.
 
-Right now I'm focused on:
+## Currently shipping
 
-- Obsidian plugins
-- desktop utility tools
-- translation / reading helpers
-- small experimental software that is actually meant to ship
+**Toolzer**  
+A visual toolkit for Obsidian focused on reading and writing comfort: typography, spacing, width, highlights, themes, paper textures, reader tools, and presets.
 
-## Current focus
+## Building next
 
-### Toolzer
-
-A visual toolkit for Obsidian focused on reading and writing comfort:
-
-- typography
-- spacing
-- width
-- highlights
-- themes
-- paper textures
-- reader tools
-- presets
-
-It started as a tool for my own workflow, and now I'm preparing it for public release.
-
-### Screen Translator
-
-A practical translation tool I'm building for real reading use cases, especially when existing tools feel clunky or incomplete.
-
-Still in active build.
-
-## How I work
-
-- I prefer small useful products over big abstract plans
-- I like shipping compact tools that solve a real annoyance
-- I care about workflows, readability, and software that feels personal
+**Screen Translator**  
+A practical translation tool for real reading flow, especially when existing tools feel clunky or incomplete.
 
 ## What you'll find here
 
-- indie tools
-- Obsidian experiments
-- utility software
-- messy prototypes that may become real products later
+- Obsidian plugins
+- desktop utility tools
+- translation and reading helpers
+- small experimental software that is meant to ship
 
-## Notes
+## Approach
 
-I'm not trying to build a giant startup page here.
+- build for real use first
+- keep products small and useful
+- ship before over-polishing
 
-This profile is mostly a home for things I'm making, testing, and slowly releasing.
-
-If something here is useful to you, that's already a win.
+This profile is a home for tools I'm making, testing, and slowly releasing.
