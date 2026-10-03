@@ -4,12 +4,12 @@ I build small tools for myself first. Most of them start as something missing in
 
 ## Currently shipping
 
-**Toolzer**  
+**[Toolzer](https://github.com/blindshen14/toolzer)**
 A visual toolkit for Obsidian focused on reading and writing comfort: typography, spacing, width, highlights, themes, paper textures, reader tools, and presets.
 
 ## Building next
 
-**Screen Translator**  
+**Screen Translator**
 A practical translation tool for real reading flow, especially when existing tools feel clunky or incomplete.
 
 ## What you'll find here
@@ -26,3 +26,8 @@ A practical translation tool for real reading flow, especially when existing too
 - ship before over-polishing
 
 This profile is a home for tools I'm making, testing, and slowly releasing.
+
+## Find me
+
+- [Twitter / X — @mbBsONLY](https://x.com/mbBsONLY)
+- [Telegram — Чебуречні історії (Ukrainian)](https://t.me/isyy14)
